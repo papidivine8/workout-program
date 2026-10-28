@@ -1,4 +1,4 @@
-import Grid from './components/grid.jsx'
+import Grid from './components/grid'
 import Hero from './components/Hero'
 import Layout from './components/Layout'
 
